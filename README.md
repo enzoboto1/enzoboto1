@@ -3,17 +3,17 @@
 ###
 
 <div>
-  <p>👨‍💻 <strong>Sou desenvolvedor de sistemas Full Stack</strong> com experiência em aplicações do backend ao frontend. Domínio em Java, C#, JavaScript, React, SQL, HTML, CSS e Bootstrap, além de frameworks como Spring Boot, Spring Framework, Hibernate, JSF, Primefaces e .NET Framework.</p>
+  <p>👨‍💻 <strong>Sou desenvolvedor de sistemas Full Stack</strong> com experiência em aplicações do backend ao frontend. Domínio em Java, C#, JavaScript, React, SQL, HTML, CSS e Bootstrap, além de frameworks como Spring Boot, Spring Framework, Hibernate, JSF, Primefaces e .NET Framework, possuindo também domínio na plataforma low-code OutSystems (Traditional Web e Reactive 11)</p>
   
-  <p>🛠️ <strong>Desenvolvimento web</strong> utilizando microsserviços e integrações entre diversas bases via APIs REST e SOAP, utilizando Swagger para documentação e Postman para testes. Mensageria com WebSockets, JMS e JAAS. Habilidade com gestão de servidores de aplicações como Apache Tomcat e JBoss WildFly. Execução de testes automatizados com Mockito e JUnit, e criação de relatórios avançados com Jasper Reports.</p>
+  <p>🛠️ <strong>Desenvolvimento web</strong> utilizando microsserviços e integrações entre diversas bases via APIs REST e SOAP, utilizando Swagger para documentação e Postman para testes. Mensageria com WebSockets, JMS e JAAS. Gerenciamento de servidores de aplicações como Apache Tomcat e JBoss WildFly. Execução de testes automatizados com Mockito e JUnit, e criação de relatórios avançados com Jasper Reports.</p>
 
-  <p>🚀 Trabalho no <strong>desenvolvimento e manutenção de sistemas, serviços e aplicações</strong> Java, C#, com foco em boas práticas com Clean Code, Clean Architecture, Event-driven, SOLID, Design Patterns e MVC.</p>
+  <p>🚀 <strong>Desenvolvimento e manutenção de sistemas, serviços e aplicações Java, C# e OutSystems</strong> com foco em boas práticas com Clean Code, Clean Architecture, Event-driven, SOLID, Design Patterns e MVC.</p>
 
-  <p>📊 <strong>Expertise em bancos de dados</strong> relacionais (PostgreSQL, MySQL, Oracle, SQL Server) e não relacionais (MongoDB, DynamoDB). Versionamento de serviços e aplicações com Git, GitLab, GitHub e BitBucket.</p>
+  <p>📊 <strong>Expertise em bancos de dados relacionais</strong> (PostgreSQL, MySQL, Oracle, SQL Server) e não relacionais (MongoDB, DynamoDB). Versionamento de serviços e aplicações com Git, GitLab, GitHub e BitBucket.</p>
 
-  <p>🔄 Familiarizado com metodologias ágeis, atuando em equipes com Scrum, Kanban e Lean, utilizando a plataforma do Jira, para entregar soluções de alta qualidade.</p>
+  <p>🔄 Hábil com metodologias ágeis, atuando em equipes com Scrum, Kanban e Lean, utilizando a plataforma do Jira, para entregar soluções de alta qualidade.</p>
 
-  <p>💡 <strong>Apaixonado por tecnologia e inovação</strong>, gosto de explorar ferramentas, compartilhar conhecimentos e colaborar em equipe. Com habilidades em análise de requisitos e de sistemas, refatoração de código, documentação e revisão, busco entregar soluções de alta qualidade alinhadas às necessidades do negócio. Comprometido com aprendizado contínuo, adaptabilidade, criatividade e excelência, contribuindo para um ambiente produtivo e colaborativo. 🌟</p>
+  <p>💡 <strong>Apaixonado por tecnologia e inovação</strong>, gosto de explorar ferramentas, compartilhar conhecimentos e colaborar em equipe. Com análise de sistemas, refatoração de código, documentação e revisão, busco entregar soluções de alta qualidade alinhadas às necessidades do negócio. Comprometido com aprendizado contínuo, adaptabilidade, criatividade e excelência, contribuindo para um ambiente produtivo e colaborativo. 🌟</p>
 </div>
 
 
@@ -80,4 +80,7 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://www.outsystems.com/profile/x7ph5j2cvk/overview" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/outsystems/outsystems-original.svg" height="40" alt="outsystems logo" />
+  </a>
 </div>
