@@ -1,8 +1,21 @@
-<h2 align="left">About me!</h2>
+<h2 align="left">Sobre mim!</h2>
 
 ###
 
-<p align="left">🌍 Full Stack Developer  <br>Experienced in backend-to-frontend development using Java, C#, JavaScript, React, Vue, SQL, HTML, CSS, and OutSystems. Skilled with frameworks like Spring Boot, Hibernate, Primefaces, and .NET Framework.<br><br>🛠️ Web Development & Integration  <br>Proficient in Bootstrap, microservices, REST/SOAP APIs, tools like Swagger and Postman, and server management with Apache Tomcat and WildFly. Skilled in automated testing (JUnit, Mockito) and creating reports with Jasper Reports.<br><br>🚀 Best Practices & Architecture  <br>Expert in Clean Code, SOLID, Event-driven, MVC, and Design Patterns, delivering maintainable and scalable systems.<br><br>📊 Database & Version Control  <br>Experienced with relational databases (PostgreSQL, SQL Server) and non-relational databases (MongoDB, DynamoDB), using tools like Git, GitLab, and GitHub.<br><br>🔄 Agile & Collaboration  <br>Adept in Scrum, Kanban, and Lean, using Jira for efficient teamwork and high-quality results.<br><br>💡 Passionate Innovator  <br>Driven by technology and innovation, with a focus on knowledge sharing, collaboration, adaptability, and delivering solutions aligned with business goals. 🌟</p>
+<div>
+  <p>👨‍💻 <strong>Desenvolvedor de sistemas Full Stack</strong> com experiência em aplicações do backend ao frontend. Domínio em Java, C#, JavaScript, React, Vue, SQL, Shell Script, HTML e CSS, além de frameworks como Spring Boot, Spring Framework, Hibernate, JSF, Primefaces e .NET Framework. Além de domínio na plataforma low-code OutSystems.</p>
+  
+  <p>🛠️ <strong>Desenvolvimento web</strong> com Bootstrap, microsserviços e integrações entre diversas bases via APIs REST e SOAP, utilizando Swagger, Postman, WebSockets, JMS e JAAS, estruturas de dados em JSON e XML. Habilidade com gestão de servidores como Apache Tomcat e WildFly. Execução de testes automatizados com Mockito e JUnit, e criação de relatórios avançados com Jasper Reports.</p>
+
+  <p>🚀 Trabalho no <strong>desenvolvimento e manutenção de sistemas, serviços e aplicações</strong> Java, C#, OutSystems (Traditional Web e Reactive 11), com foco em boas práticas com Clean Code, Clean Architecture, Event-driven, SOLID, Design Patterns e MVC.</p>
+
+  <p>📊 <strong>Expertise em bancos de dados</strong> relacionais (PostgreSQL, MySQL, Oracle, SQL Server) e não relacionais (MongoDB, DynamoDB), e utilizo ferramentas de versionamento como Git, GitLab, GitHub e BitBucket.</p>
+
+  <p>🔄 Familiarizado com metodologias ágeis, atuo em equipes com Scrum, Kanban e Lean utilizando a plataforma do Jira, para entregar soluções de alta qualidade.</p>
+
+  <p>💡 <strong>Apaixonado por tecnologia e inovação</strong>, gosto de explorar ferramentas, compartilhar conhecimentos e colaborar em equipe. Com habilidades em análise de requisitos e de sistemas, refatoração de código, documentação e revisão, busco entregar soluções de alta qualidade alinhadas às necessidades do negócio. Comprometido com aprendizado contínuo, adaptabilidade, criatividade e excelência, contribuindo para um ambiente produtivo e colaborativo. 🌟</p>
+</div>
+
 
 ###
 
@@ -54,7 +67,7 @@
 
 ###
 
-<h2 align="left">Contact Me!</h2>
+<h2 align="left">Contatos!</h2>
 
 ###
 
